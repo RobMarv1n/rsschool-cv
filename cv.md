@@ -1,11 +1,14 @@
 # Alexey Kandyba
+
 ## My contact info
 * Email: fenalfan@gmail.com
 * GitHub: [RobMarv1n](https://github.com/RobMarv1n)
 * Telegram: [Rob_Marvin](https://t.me/Rob_Marvin)
 * Discord: robmarvin
+
 ## About me
 I have a little experience in building websites, but I am not working as a developer yet. I want to consolidate my knowledge in web development and find a job in this field
+
 ## Skills
 * HTML
 * CSS, SCSS
@@ -13,6 +16,7 @@ I have a little experience in building websites, but I am not working as a devel
 * Git, GitHub
 * Figma, Photoshop
 * VS Code
+
 ## Code example
 ```javascript
 function isIsogram(str){
@@ -24,8 +28,10 @@ function isIsogram(str){
     } else { return false }
 }
 ```
+
 ## Education
 * University: Kuban State Technological University, Software engineering
 * Courses: [HTML Academy](https://htmlacademy.ru) interactive simulators
+
 ## English
 A2
